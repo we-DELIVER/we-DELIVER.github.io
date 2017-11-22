@@ -3,13 +3,13 @@ body {
     width: 70%;
 }
 .navbar .nav > li > a.brand-image {
-      padding: 25px 25px 25px 25px;
+      padding: 0px 0px 0px 0px;
 }
 
 .navbar .nav > li > a > img.brand-image {
-    -webkit-border-radius: 0px;
-       -moz-border-radius: 0px;
-            border-radius: 0px;
+    -webkit-border-radius: 25px;
+       -moz-border-radius: 25px;
+            border-radius: 25px;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
