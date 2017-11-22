@@ -6,11 +6,6 @@ body {
       padding: 0px 0px 0px 0px;
 }
 
-.navbar-brand {
-    background: url(https://we-deliver.github.io/assets/logos/NWU_logo.png) center / contain no-repeat;
-    width: 200px;
-}
-
 .navbar .nav > li > a > img.brand-image {
     -webkit-border-radius: 0px;
        -moz-border-radius: 0px;
