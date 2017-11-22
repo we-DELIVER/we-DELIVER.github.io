@@ -6,6 +6,15 @@ body {
       padding: 0px 0px 0px 0px;
 }
 
+.navbar {
+	background-color: #FE0000;
+	position: relative;
+	padding: 20px;
+	border-radius: 0px;
+	border-style: none;
+
+}
+
 .navbar .nav > li > a > img.brand-image {
     -webkit-border-radius: 0px;
        -moz-border-radius: 0px;
