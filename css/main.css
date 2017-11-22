@@ -13,16 +13,6 @@ body {
             border-radius: 0px;
 }
 
-}
-
-.navbar-brand > img {
-	display: inline-block;
-	position: top;
-	margin: auto;
-	padding-top: 0px;
-	float: left;
-}
-
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
