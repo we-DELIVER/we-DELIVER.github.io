@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 .navbar .nav > li > a.brand-image {
-      padding: 0px 0px 0px 0px;
+      padding: 25px 25px 25px 25px;
 }
 
 .navbar .nav > li > a > img.brand-image {
