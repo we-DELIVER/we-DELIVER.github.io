@@ -20,7 +20,7 @@ nav ul, footer ul {
     font-weight: bold;
 }
 nav ul li, footer ul li {
-    display: inline;
+    display: centre;
     margin-right: 1px;
 }
 a {
